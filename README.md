@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+INFORMATIVE PARAMETER
 
 ## What it does
 
-FEATURES PLACEHOLDER
+NON-INFORMATIVE PARAMETER
 
 ## Getting started
 
